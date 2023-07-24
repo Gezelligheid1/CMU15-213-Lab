@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab0.dir/bits.c.o -o lab0 

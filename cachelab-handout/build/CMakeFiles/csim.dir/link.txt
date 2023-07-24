@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/csim.dir/csim.c.o CMakeFiles/csim.dir/cachelab.c.o -o csim 
